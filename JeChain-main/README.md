@@ -27,7 +27,7 @@
 
 ### Installation
 
-First, download the latest release from: https://github.com/nguyenphuminh/JeChain/releases.
+First, download the latest release from: https://github.com/Nashons/Baby-blockchain.git.
 
 Extract the zip file, in the `JeChain` folder, open up your terminal and install the required packages through `npm`:
 
